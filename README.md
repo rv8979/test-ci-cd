@@ -3,6 +3,8 @@
 **For the most up to date test app to get you started on Heroku, head on over to [`node-js-getting-started`](https://github.com/heroku/node-js-getting-started).**
 
 ---
+[![Build Status](http://104.198.196.57:8080/buildStatus/icon?job=nodejs)](http://104.198.196.57:8080/job/nodejs/)
+nodejs ci/cd project
 
 # node-js-sample
 
